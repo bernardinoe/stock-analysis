@@ -10,7 +10,7 @@ The purpose of this analysis is to review an entire dataset of stocks and unders
 
 ![2017](https://github.com/bernardinoe/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-1[2018](https://github.com/bernardinoe/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+![2018](https://github.com/bernardinoe/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Code
 
