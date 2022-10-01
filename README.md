@@ -32,7 +32,7 @@ The purpose of this analysis is to review an entire dataset of stocks and unders
     
         tickerVolumes(x) = 0
         
-   Next x
+    Next x
         
     ''2b) Loop over all the rows in the spreadsheet.
     
@@ -89,7 +89,9 @@ The purpose of this analysis is to review an entire dataset of stocks and unders
 ## Summary
 
 - There is a detailed statement on the advantages and disadvantages of refactoring code in general
+
 Refactoring code allows a faster analysis as the user doesn't need to create it from scratch. On the other side, if the user don't understands the code entirely, it could take longer than expected.
 
 - There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script
+
 The advantage of refactoring code in VBA is that you already have a visual result in excel, which can help you understand better the code if it is the first time using it. As well as in any language, don't understanding the code entirely could make it a slower process than writting it from scratch.
