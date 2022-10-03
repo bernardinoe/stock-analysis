@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 
 ## Purpose
 The purpose of this analysis is to review an entire dataset of stocks and understand their performance. This analysis was done by refactoring code, and improving it so it can analyze different years and more stocks if neccesary.
